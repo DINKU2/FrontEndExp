@@ -1,0 +1,34 @@
+/* Style both article's images */
+img {
+    width: 300px;
+}
+
+/* Style article's <h1> tag */
+h1 {
+    padding: 5px;
+    font-family: Arial;
+    font-size: 24px;
+    color: rgb(255, 255, 255); /* White color */
+    background-color: rgb(255, 0, 0); /* Red color */
+}
+
+/* Style author name and date */
+#author-name-and-date {
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb(211, 211, 211); /* Lightgray color */
+}
+
+/* Style article's text (<p> and <ol> tags) */
+p, ol {
+    font-family: "Times New Roman";
+    font-size: 16px;
+    color: rgb(128, 128, 128); /* Gray color */
+}
+
+/* Style article's share links (<a> tags) */
+a {
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb(0, 0, 255); /* Blue color */
+}
